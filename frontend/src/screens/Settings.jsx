@@ -4,7 +4,7 @@ const Settings = () => {
   return (
     <>
       <div className="h-[100vh] w-[100vw] flex justify-center">
-        <div className="flex flex-col h-full border border-gray-300 min-w-80 max-w-80 bg-[#F7F8F9]">
+        <div className="flex flex-col h-full border border-gray-300 max-w-80 bg-[#F7F8F9]">
           <header className="  shadow-[0px_3px_6px_rgba(0,0,0,0.25)] bg-[#FFFFFF] p-4 flex items-center h-15">
             Account Setting
           </header>

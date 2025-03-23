@@ -5,7 +5,7 @@ const Welcome = () => {
   return (
     <>
         <div className='h-[100vh] w-[100vw]  flex justify-center'>
-            <div className='flex flex-col border border-gray-300 h-full min-w-80 max-w-80 bg-[#F7F8F9]'>
+            <div className='flex flex-col border border-gray-300 h-full  max-w-80 bg-[#F7F8F9]'>
                 <div className="top-section w-full h-[70%]"></div>
                 <div className="bottom-section w-full p-4 box-border h-[30%]">
                     <div className='max-w-[80%]'>
