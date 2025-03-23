@@ -9,7 +9,7 @@ const Welcome = () => {
                 <div className="top-section w-full h-[70%]"></div>
                 <div className="bottom-section w-full p-4 box-border h-[30%]">
                     <div className='max-w-[80%]'>
-                    <h1 className='text-2xl font-bold '>Welcome to PopX</h1>
+                    <h1 className='text-2xl font-medium text-[#1D2226]'>Welcome to PopX</h1>
                     <p className='text-[rgba(29,34,38,0.6)]'>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                     <div className='w-full mt-4 flex flex-col gap-2 items-center '>
